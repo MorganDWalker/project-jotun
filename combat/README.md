@@ -1,0 +1,1 @@
+This folder will handle any Combat logic scripts needed during development
